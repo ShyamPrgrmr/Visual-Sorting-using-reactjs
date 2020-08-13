@@ -1,0 +1,10 @@
+*{
+  margin: 0px;
+  padding:0px;
+  background-origin: border-box;
+}
+
+body{
+  font-size: 16px;
+  background-color: rgb(155, 163, 165);
+}

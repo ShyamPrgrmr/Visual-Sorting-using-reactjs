@@ -1,0 +1,6 @@
+.footer{
+    margin-top: auto;
+    display: flex;
+    background-color: aqua;
+    padding: 5px;
+}

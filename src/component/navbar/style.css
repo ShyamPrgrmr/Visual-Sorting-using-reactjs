@@ -1,0 +1,17 @@
+.form{
+    display: flex;
+    padding: 5px;
+    background-color: aqua;
+}
+
+select{
+    width: 200px;
+}
+
+.btn-right{
+    margin-left: auto;
+}
+
+.value-selector{
+    width:auto;
+}
